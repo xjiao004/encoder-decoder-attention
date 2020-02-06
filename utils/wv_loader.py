@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-# Created by LuoJie at 11/22/19
+# Created by xjiao004 at 02/05/2020
 from gensim.models.word2vec import LineSentence, Word2Vec
 import numpy as np
 import codecs
