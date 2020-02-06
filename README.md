@@ -1,4 +1,4 @@
-# Word2vec-Encoder-Decoder-attention-py
+# Encoder-Decoder-attention-cn
 
 ## Installation 
 
@@ -6,7 +6,7 @@ conda create -n tfTrain python=3.6
 
 pip install tf-nightly-gpu
 
-pip install -r requirements
+pip install -r requirements.txt
 
 ## Training
 
